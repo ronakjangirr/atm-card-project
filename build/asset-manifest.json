@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/atm-card-project/static/css/main.0dee1b9f.css",
+    "main.js": "/atm-card-project/static/js/main.5c810e1c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/atm-card-project/static/js/787.28cb0dcd.chunk.js",
+    "static/media/img2.jpg": "/atm-card-project/static/media/img2.a58eab95da5ce92d0f50.jpg",
+    "index.html": "/atm-card-project/index.html",
+    "main.0dee1b9f.css.map": "/atm-card-project/static/css/main.0dee1b9f.css.map",
+    "main.5c810e1c.js.map": "/atm-card-project/static/js/main.5c810e1c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/atm-card-project/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dee1b9f.css",
+    "static/js/main.5c810e1c.js"
+  ]
+}
